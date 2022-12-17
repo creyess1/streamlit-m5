@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("Streamlit - Search names")
 
-DATA_URL = ("/workspaces/streamlit-m5/dataset.csv")
+DATA_URL = ("dataset.csv")
 
 @st.cache
 
